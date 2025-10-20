@@ -39,8 +39,6 @@ SelfDrivingCar/
 2. Use **arrow keys** to control the car.  
 3. Enjoy the simulation!
 
-> Recommended: use [VS Code Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for live reload.
-
 ## 🎓 About
 
 This project was made for **self-education** and experimentation in JavaScript and canvas-based games.  
